@@ -1,0 +1,10 @@
+LIB724,Ghilman,2
+LIB885,Haris,1
+LIB127,Jaja,1
+LIB623,koko,1
+LIB859,Joko Widodo,2
+LIB917,Andrea Ferdiansyah,1
+LIB302,Alfrialdy Buana,1
+LIB194,Kodok,2
+LIB235,HAmdi,2
+LIB066,Nadila,2

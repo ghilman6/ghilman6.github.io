@@ -1,0 +1,6 @@
+LIB601,Fatah,1
+LIB170,Ghilman,2
+LIB094,Alif,2
+LIB197,Ammar,1
+LIB645,Komar,2
+LIB881,ikrom,Tidak Terdaftar

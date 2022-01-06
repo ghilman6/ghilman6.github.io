@@ -1,0 +1,8 @@
+GHI637,Python satu malma,ghilman,1
+JAK517,Java dua malam,jaka,101
+AIH058,Cerita dongen,Ai Habra,3
+AIH591,Cerita dongeng v2,AiHabada,1
+TEM186,Janji Jiwa Sejiwa,TeMan,3
+TUH065,Buku Pedoman,Tuhan,0
+DHI266,Dikta & Hukum,Dhia'anFarah,3
+TUH208,Pelangi Pelangi,Tuhan,6
