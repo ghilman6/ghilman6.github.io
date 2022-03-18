@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939659472374",
+    "project_id": "makanansurvey",
+    "storage_bucket": "makanansurvey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939659472374:android:76fb8652fa035bf9642bd7",
+        "android_client_info": {
+          "package_name": "com.example.inheri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939659472374-dojr0b2kv3081vj96tfvotnvg0b4gmd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkpxZBMW2UHah8FcYlUPeInEvgLdnjb38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939659472374-dojr0b2kv3081vj96tfvotnvg0b4gmd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
